@@ -1,0 +1,100 @@
+<!DOCTYPE HTML>
+<html  lang="en-US"> 
+ <head>
+ <meta charset="UTF-8">
+<title>My First Theme</title>
+<!--- <script src="https://kit.fontawesome.com/4c82d3975c.js"></script> -->
+<link rel="stylesheet" href="my first theme.css"    type="text/css" />
+
+
+</head>
+<body>
+
+<header>
+
+
+
+<div class="topHeader">
+   <div class="mainContent">
+ 
+       <div class="addressBook"> 
+     <ul class="addressItems">
+	 <li><span><i class="fa fa-paper-plane"></i> Location:</span><a href="#"> 43, debi street, Newyork, USA </a></li>
+	 <li><span><i class="fa fa-phone"></i>    Phone:</span><a href="#">+121 000222</a></li>
+	 <li><span><i class="fa fa-envelope"></i> Email:</span><a href="#">contact@email.com</a></li>
+	 
+	 </ul>
+       </div>
+   
+            <div class="langChange">
+ 
+  <div class="langItems">
+  <select>
+  <option>English</option>
+  <option>Bangla</option>
+  <option>Hindi</option>
+  <option>Spanish</option>
+  
+  </select>
+  
+            </div>
+  
+  </div>
+
+</div>
+</div>
+
+<!-- menu bar-->
+<div class="mainHeader">
+<div class="mainContent">
+   <div class ="mainHeaderInner">
+   <div class="logo"> 
+   <img src="logo_1.png"/>
+   </div>
+   
+        <div class="navbar">
+		    <ul id="main_menu">
+          <li><a href="#">HOME</a></li>
+           <li><a href="#">Services </a>
+		   
+		   <ul class="subMenu">
+		   <li><a href="#">Web Design </a></li>
+		   <li><a href="#">Graphics Design</a></li>
+		   <li><a href="#">Apps Development</a></li>
+		   <li><a href="#">Wordpress Development</a></li>
+		   </ul>
+		   </li>
+		   
+		   
+           <li><a href="#">ABOUT</a></li>
+            <li><a href="#">PORTFOLIO</a></li>
+             <li><a href="#">BLOG</a></li>
+              <li><a href="#">CONTACT</a></li>
+        </ul>
+		</div>
+	         <div class="searchForm">
+			 <div class="searchButton">
+			<i class="fa fa-search"></i>
+			</div>
+			 </div>
+
+</div>
+</div>
+</div>
+</header>
+<section id="slider">
+                <div class="mainContent">
+                    <div class="sliderTitle">
+                  <h2>Welcome to Our <span>Nest</span></h2>
+                     <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor 
+                           incididunt ut labore et dolore magna aliqua. 
+                              Ut enim ad minim veniam, quis nostrud exercitation.</p>
+                     </div>
+               </div>
+
+</section>
+
+
+</body>
+</html>
+  
